@@ -29,6 +29,9 @@ All items below consists of my personal opinion.
 - Favorite Project (for now): Beeware
 - Favorite Organization: FSF
 
+----------
+
+Miscellanous stuff: I have Asperger's Syndrome -- you don't need to do anything about this random trivia about me, though. I'm just like any other normal person.
 <!---
 johnzhou721/johnzhou721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
