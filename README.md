@@ -26,7 +26,7 @@ All items below consists of my personal opinion.
 - Favorite Piece of Free Software: Autotools
 - Favorite Build System: Make
 - Least Favorite Build System: Xcode
-- Favorite City: Yunnan, China
+- Favorite Region: Yunnan, China
 - Favorite Name for New Folders (that often remains that name for awhile): untitled folder (insert number here)
 - Favorite Project (for now): Beeware
 - Favorite Organization: FSF
