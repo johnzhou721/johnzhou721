@@ -8,10 +8,20 @@
 - 💻 Programming Languages: Python, C++, (a bit of) Java, TypeScript (the language only, don't know frameworks), Objective-C, (La)TeX
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
 
 All items below consists of my personal opinion.
+
+You are free to adopt the format README for your own statements without any restrictions.
+
+Sharing the specific facts about @johnzhou721 listed is allowed iff (if and only if):
+- No modifications has been made, or only deletions are made (i.e. you can share an excerpt of this document as long as the text in that section is unchanged), or
+- Rewording is done, but it does not change any of my opinions/facts, or
+- It changes some of my opinions/facts, *but only if it's obvious to the average person that it is a joke*, or if explicitly stated that it does not represent the opinions of @johnzhou721.
+
+No other restrictions are imposed on sharing this document or any parts of it.
 
 ----------
 - Favorite Operation System: Linux (although I'm on a Mac)
