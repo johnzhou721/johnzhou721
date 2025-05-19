@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
 
-License
+Sharing this README
 -------
 
 You are free to adopt the format README for your own statements without any restrictions.
