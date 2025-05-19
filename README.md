@@ -12,7 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
 
-All items below consists of my personal opinion.
+License
+-------
 
 You are free to adopt the format README for your own statements without any restrictions.
 
@@ -22,6 +23,8 @@ Sharing the specific facts about @johnzhou721 listed is allowed iff (if and only
 - It changes some of my opinions/facts, *but only if it's obvious to the average person that it is a joke*, or if explicitly stated that it does not represent the opinions of @johnzhou721.
 
 No other restrictions are imposed on sharing this document or any parts of it.
+
+All items below consists of my personal opinion.
 
 ----------
 - Favorite Operation System: Linux (although I'm on a Mac)
