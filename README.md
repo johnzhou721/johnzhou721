@@ -7,9 +7,9 @@
 - 🌏 Non-Programming Languages: Chinese (Simplified, Mandarin), English
 - 💻 Programming Languages: Python, C++, (a bit of) Java, TypeScript (the language only, don't know frameworks), Objective-C, (La)TeX
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnzhou721&force)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721&force)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Sharing this README
