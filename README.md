@@ -34,7 +34,7 @@ All items below consists of my personal opinion.
 - Least Favorite Operating System: Microsoft Windows
 - Favorite UI Framework on Apple Platforms: UIKit
 - Favorite Email App: Outlook
-- Least Favorite Companies (from worst to less bad): Microsoft, Apple, Google, Adobe (good software, proprietary though and sues users of old versions), Disney (I like Disney movies but not copyright abuse, their lobbiests made copyright longer), Autodesk, SpaceX (I don't like how they're making money out of publicly available space, even though I'm sort of sad that their 9th test flight has lost attitude control just as I'm committing this now), Amazon (CEO giving up on being a theoretical physicist because of a problem (pun intended) and funded the dirty Amazon with bad business practices, also Kindle DRM, yuck)
+- Least Favorite Companies (from worst to less bad): Microsoft, Apple, Google, Adobe (good software, proprietary though and sues users of old versions), Disney (I like Disney movies, am fine with copyright -- but not their usage of UHD Blu-Rays which uses [DRM](https://www.defectivebydesign.org/)), Autodesk, SpaceX (I don't like how they're making money out of publicly available space, even though I'm sort of sad that their 9th test flight has lost attitude control just as I'm committing this now), Amazon (CEO giving up on being a theoretical physicist because of a problem (pun intended) and funded the dirty Amazon with bad business practices, also Kindle DRM, yuck)
 - Favorite Movie: Frozen (2013)
 - Favorite Markup Language: LaTeX
 - Favorite 3D Shape: Frustum
