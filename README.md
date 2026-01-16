@@ -12,3 +12,11 @@
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzhou721)](https://github.com/anuraghazra/github-readme-stats)
+
+TODOs / Work In Progress Proposals
+
+- https://github.com/beeware/toga/issues/4078
+- https://github.com/beeware/toga/issues/4039
+- https://github.com/beeware/toga/issues/785
+- https://github.com/beeware/toga/issues/4059
+- https://github.com/beeware/toga/issues/4078
