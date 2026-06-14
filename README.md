@@ -5,28 +5,6 @@
 - 💻 Programming Languages: Python, C++, (a bit of) Java, TypeScript (the language only, don't know frameworks), Objective-C, (La)TeX
   - If you have a really cool language you'd like to suggest to put onto my stack, make an issue on johnzhou721/johnzhou721
  
-Featured Work
--------------
-
-**Personal**
-
-\[Note:  End-user applications below are not published as I do not have the neccessary signing certificates.\]
-
-- An internal script for an annual field trip at school for Excel's Office Scripts, https://github.com/johnzhou721/cm-rooming
-- https://github.com/johnzhou721/mouse for macOS, a game testing short-term memory
-- https://github.com/johnzhou721/makenumber for macOS, Windows, Linux, iOS, and Android, a game similar to the mechanics of the show Number Sense (no endorsement implied)
-- https://github.com/johnzhou721/sudoku-solver for macOS, Windows, and Linux, a GUI for a sudoku solver using python-sat by eysbutno
-
-**Contributions to Other Projects**
-
-- Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
-- Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
-- A spinner animation done entirely using LaTeX, matching the style of WinUI3 at https://github.com/johnzhou721/cm-rooming, used in BeeWare's Toga's WinForms backend at https://github.com/beeware/toga/pull/3473
-- A patch to BeeWare's Python-Apple-Support that adds unofficial CPython build support for visionOS: https://github.com/beeware/Python-Apple-support/pull/270, https://github.com/freakboy3742/cpython/pull/6
-- Researching on and debugging issues with Gtk4 migration for Toga, comments on https://github.com/beeware/toga/pull/3239
-- Contributing to CP Initiative's USACO Guide, adding solutions for missing problems to help learners grasp intuition behind complex algorithmic ideas:
-  see e.g. https://github.com/cpinitiative/usaco-guide/pull/6245, https://github.com/cpinitiative/usaco-guide/pull/6231, https://github.com/cpinitiative/usaco-guide/pull/5979
-
 Sponsorship
 -----------
 
@@ -46,11 +24,34 @@ There are 2 options for sponsoring my FOSS work:
   If I can commit to developing the feature, I will involve a core team member of the relevant project for further discussion.
   **Again, although I can promise to work on a feature or bugfix, I cannot guarantee that it is integrated into the upstream project, if I do not maintain it.**
 
-## Maintained Personal Projects
+### Maintained Personal Projects
 
 - johnzhou721/makenumber
 - johnzhou721/sudoku-solver
 
-## Interested features to develop for sponsorship
+### Interested features to develop for sponsorship
 
 None currently; if there's a ticket in any FOSS project I contribute to (beeware/toga would be a good fit) that has an API design discussion finished that you'd like me to work on for a sponsorship (**NOT** guaranteed that I will be able to land it,) let me know privately.
+
+
+Featured Work
+-------------
+
+### Personal
+
+\[Note:  End-user applications below are not published as I do not have the neccessary signing certificates.\]
+
+- An internal script for an annual field trip at school for Excel's Office Scripts, https://github.com/johnzhou721/cm-rooming
+- https://github.com/johnzhou721/mouse for macOS, a game testing short-term memory
+- https://github.com/johnzhou721/makenumber for macOS, Windows, Linux, iOS, and Android, a game similar to the mechanics of the show Number Sense (no endorsement implied)
+- https://github.com/johnzhou721/sudoku-solver for macOS, Windows, and Linux, a GUI for a sudoku solver using python-sat by eysbutno
+
+### Contributions to Other Projects
+
+- Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
+- Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
+- A spinner animation done entirely using LaTeX, matching the style of WinUI3 at https://github.com/johnzhou721/cm-rooming, used in BeeWare's Toga's WinForms backend at https://github.com/beeware/toga/pull/3473
+- A patch to BeeWare's Python-Apple-Support that adds unofficial CPython build support for visionOS: https://github.com/beeware/Python-Apple-support/pull/270, https://github.com/freakboy3742/cpython/pull/6
+- Researching on and debugging issues with Gtk4 migration for Toga, comments on https://github.com/beeware/toga/pull/3239
+- Contributing to CP Initiative's USACO Guide, adding solutions for missing problems to help learners grasp intuition behind complex algorithmic ideas:
+  see e.g. https://github.com/cpinitiative/usaco-guide/pull/6245, https://github.com/cpinitiative/usaco-guide/pull/6231, https://github.com/cpinitiative/usaco-guide/pull/5979
