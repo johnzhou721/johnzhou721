@@ -8,6 +8,8 @@
 Sponsorship
 -----------
 
+#### NOTE:  If you're interested, reach out first, but because of legal I can't do it until about 1-2 years later.
+
 I proactively actively work on contributions to open source projects and documentation such as BeeWare's Toga and CP Initiative's USACO Guide.
 I also have a few personal projects; a list of those will be continually maintained can be found at the end of this blurb.
 Sponsoring will allow me to spend more time working on free and open source projects in general, or for specific features.
