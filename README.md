@@ -31,7 +31,7 @@ There are 2 options for sponsoring my FOSS work:
 
 ### Interested features to develop for sponsorship
 
-- [beeware/toga#4470](https://github.com/beeware/toga/issues/4470)
+- (beeware/toga:  Segmented Control widget) [beeware/toga#4470](https://github.com/beeware/toga/issues/4470)
 
 
 Featured Work
