@@ -8,12 +8,6 @@
 Sponsorship
 -----------
 
-I can't accept sponsorships because of legal issues.  However, I do have a model planned for sponsors — if you're interested in anything similar, reach out preliminarily so I can set things up once legal clears.
-
-<details>
-
-<summary>My model</summary>
-
 I proactively actively work on contributions to open source projects and documentation such as BeeWare's Toga and CP Initiative's USACO Guide.
 I also have a few personal projects; a list of those will be continually maintained can be found at the end of this blurb.
 Sponsoring will allow me to spend more time working on free and open source projects in general, or for specific features.
@@ -37,11 +31,7 @@ There are 2 options for sponsoring my FOSS work:
 
 ### Interested features to develop for sponsorship
 
-None currently; if there's a ticket in any FOSS project I contribute to (beeware/toga would be a good fit) that has an API design discussion finished that you'd like me to work on for a sponsorship (**NOT** guaranteed that I will be able to land it,) let me know privately.
-
-</details>
-
-
+- [beeware/toga#4470](https://github.com/beeware/toga/issues/4470)
 
 
 Featured Work
