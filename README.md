@@ -8,7 +8,9 @@
 Sponsorship
 -----------
 
-I proactively actively work on contributions to open source projects and documentation such as BeeWare's Toga and CP Initiative's USACO Guide.
+[NOTE:  My Content Author position at CP Initiative is done on another basis for volunteer hours.  The donations below are only for my other contributions to open source.  In other words, **do not donate for my work at CPI.**]
+
+I proactively actively work on contributions to open source projects such as BeeWare's Toga.
 I also have a few personal projects; a list of those will be continually maintained can be found at the end of this blurb.
 Sponsoring will allow me to spend more time working on free and open source projects in general, or for specific features.
 There are 2 options for sponsoring my FOSS work:
