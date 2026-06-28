@@ -27,3 +27,9 @@ Featured Work
 - Researching on and debugging issues with Gtk4 migration for Toga, comments on https://github.com/beeware/toga/pull/3239
 - Contributing to CP Initiative's USACO Guide, adding solutions for missing problems to help learners grasp intuition behind complex algorithmic ideas:
   see e.g. https://github.com/cpinitiative/usaco-guide/pull/6245, https://github.com/cpinitiative/usaco-guide/pull/6231, https://github.com/cpinitiative/usaco-guide/pull/5979
+
+
+**Open Source Contributions & Sponsorship:**
+
+For details regarding my **independent** FOSS work, personal projects, and active sponsorship options, please visit johnzhou721/sponsorship-info.
+This is for **independent** FOSS work only, i.e. packages maintained under the johnzhou721 namespace, or PRs that are NOT made to any organization I am part of (including non-profits for which I get volunteer hours).
