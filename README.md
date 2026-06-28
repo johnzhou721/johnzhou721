@@ -32,4 +32,4 @@ Featured Work
 # Open Source Contributions & Sponsorship:
 
 For details regarding my **independent** FOSS work, personal projects, and active sponsorship options, please visit johnzhou721/sponsorship-info.
-This is for **independent** FOSS work only, i.e. packages maintained under the johnzhou721 namespace, or PRs that are NOT made to any organization I am part of (including non-profits for which I get volunteer hours).
+This is for **independent** FOSS work only, i.e. packages maintained under the johnzhou721 namespace, or PRs that are NOT made to any organization I am part of (NO DONATIONS TO ME ALLOWED FOR WORK ON non-profits for which I get volunteer hours).
