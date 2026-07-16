@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnzhou721
+- 👋 Hi, I’m @johnzhou721 (My Blog: https://johnzhou721.blogspot.com)
 - 😄 Pronouns: he/him
 - 💻 Computer I use: an M1 MacBook Pro from 2021
 - 🌏 Non-Programming Languages: Chinese (Simplified, Mandarin), English
