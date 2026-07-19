@@ -22,6 +22,7 @@ Featured Work
 - https://github.com/johnzhou721/mouse for macOS, a game testing short-term memory
 - https://github.com/johnzhou721/makenumber for macOS, Windows, Linux, iOS, and Android, a game similar to the mechanics of the show Number Sense (no endorsement implied)
 - https://github.com/johnzhou721/sudoku-solver for macOS, Windows, and Linux, a GUI for a sudoku solver using python-sat by eysbutno
+- [johnzhou721/tiler](https://github.com/johnzhou721/tiler) -- Generates printable sheets containing repeated text or images. *macOS, Linux (GTK), Linux (Qt), Windows*
 
 ### Contributions to Other Projects
 
