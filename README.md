@@ -24,12 +24,10 @@ Featured Work
 - https://github.com/johnzhou721/sudoku-solver for macOS, Windows, and Linux, a GUI for a sudoku solver using python-sat by eysbutno
 - [johnzhou721/tiler](https://github.com/johnzhou721/tiler) -- Generates printable sheets containing repeated text or images. *macOS, Linux (GTK), Linux (Qt), Windows*
 
-### Contributions to Other Projects
+### Contributions to Other Projects that I'm Not Part Of
 
 - Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
 - Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
-- A spinner animation done entirely using LaTeX, matching the style of WinUI3 at https://github.com/johnzhou721/cm-rooming, used in BeeWare's Toga's WinForms backend at https://github.com/beeware/toga/pull/3473
+- DPI Scaling Debugging for Toga's WinForms backend, https://github.com/beeware/toga/pull/4577
 - A patch to BeeWare's Python-Apple-Support that adds unofficial CPython build support for visionOS: https://github.com/beeware/Python-Apple-support/pull/270, https://github.com/freakboy3742/cpython/pull/6
-- Researching on and debugging issues with Gtk4 migration for Toga, comments on https://github.com/beeware/toga/pull/3239
-- Contributing to CP Initiative's USACO Guide, adding solutions for missing problems to help learners grasp intuition behind complex algorithmic ideas:
-  see e.g. https://github.com/cpinitiative/usaco-guide/pull/6245, https://github.com/cpinitiative/usaco-guide/pull/6231, https://github.com/cpinitiative/usaco-guide/pull/5979
+- Researching on and debugging issues with Gtk4 migration for BeeWare's Toga, comments on https://github.com/beeware/toga/pull/3239
