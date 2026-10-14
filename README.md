@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @johnzhou721 (My Blog: https://johnzhou721.blogspot.com)
 - 😄 Pronouns: he/him
+- One of the authors of the novel, *Shine a Light on Me* (2026); https://www.amazon.com/dp/B0HM5LFNG2
 - 💻 Computer I use: an M1 MacBook Pro from 2021
 - 🌏 Non-Programming Languages: Chinese (Simplified, Mandarin), English
 - 💻 Programming Languages: Python, C++, (a bit of) Java, TypeScript (the language only, don't know frameworks), Objective-C, (La)TeX
