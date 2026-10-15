@@ -3,6 +3,7 @@
 - One of the authors of the novel, *Shine A Light On Me: A Story Of The Blues, Friendship and Memory* (2026); https://www.amazon.com/dp/B0HM5LFNG2
 - 💻 Computer I use: an M1 MacBook Pro from 2021
 - 🌏 Non-Programming Languages: Chinese (Simplified, Mandarin), English
+- Currently working on Scaffolds layer in Toga (see "Contributions to Other Projects" section, item 1)
 - 💻 Programming Languages: Python, C++, (a bit of) Java, TypeScript (the language only, don't know frameworks), Objective-C, (La)TeX
   - If you have a really cool language you'd like to suggest to put onto my stack, make an issue on johnzhou721/johnzhou721
  
@@ -27,7 +28,7 @@ Featured Work
 
 ### Contributions to Other Projects that I'm Not Part Of
 
-- **(ONGOING)** Refactor to BeeWare's Toga GUI framework to support top-level navigation patterns: https://github.com/beeware/toga/pull/4605, https://github.com/beeware/toga/pull/4382, tickets / prior discussion: https://github.com/beeware/toga/issues/4298, https://github.com/beeware/toga/discussions/4271
+- **(ONGOING)** Refactor to BeeWare's Toga GUI framework to support top-level navigation patterns ("Scaffolds"): https://github.com/beeware/toga/pull/4605, https://github.com/beeware/toga/pull/4382, tickets / prior discussion: https://github.com/beeware/toga/issues/4298, https://github.com/beeware/toga/discussions/4271
 - Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
 - Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
 - DPI Scaling Debugging for Toga's WinForms backend, https://github.com/beeware/toga/pull/4577
