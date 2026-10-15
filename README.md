@@ -27,6 +27,7 @@ Featured Work
 
 ### Contributions to Other Projects that I'm Not Part Of
 
+- **(ONGOING)** Refactor to BeeWare's Toga GUI framework to support top-level navigation patterns: https://github.com/beeware/toga/pull/4605, https://github.com/beeware/toga/pull/4382, tickets / prior discussion: https://github.com/beeware/toga/issues/4298, https://github.com/beeware/toga/discussions/4271
 - Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
 - Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
 - DPI Scaling Debugging for Toga's WinForms backend, https://github.com/beeware/toga/pull/4577
