@@ -32,5 +32,6 @@ Featured Work
 - Contributing the initial code for the system-pyside6 package enabling people to use their system-installed copy of PySide6 in an isolated venv: https://github.com/beeware/system-pyside6/pull/1
 - Contributing the initial implementation of the Qt backend for BeeWare's Toga: https://github.com/beeware/toga/pull/3769
 - DPI Scaling Debugging for Toga's WinForms backend, https://github.com/beeware/toga/pull/4577
+- Making Python builds work for visionOS: https://github.com/beeware/Python-Apple-support/pull/276 and related PRs, later upstreamed to CPython by freakboy3742 at https://github.com/python/cpython/pull/159944
 - A patch to BeeWare's Python-Apple-Support that adds unofficial CPython build support for visionOS: https://github.com/beeware/Python-Apple-support/pull/270, https://github.com/freakboy3742/cpython/pull/6
 - Researching on and debugging issues with Gtk4 migration for BeeWare's Toga, comments on https://github.com/beeware/toga/pull/3239
